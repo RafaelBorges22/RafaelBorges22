@@ -1,83 +1,65 @@
-<h1 align="center">Olá, eu sou o Rafael Mascarenhas Borges 👋</h1>
+<div align="center">
 
-<h3 align="center">🎓 Cursando Desenvolvimento de Software Multiplataforma - Fatec Itaquera Miguel Reale</h3>
+<h1>Olá, eu sou o Rafael Mascarenhas Borges 👋</h1>
 
-<p align="center">🧑‍💻 Em busca da primeira oportunidade como desenvolvedor</p>
+<h3>🎓 Cursando Desenvolvimento de Software Multiplataforma - Fatec Itaquera Miguel Reale</h3>
+
+<p>🧑‍💻 Em busca da primeira oportunidade como desenvolvedor</p>
 
 ---
 
 ## 🛠️ Minhas Skills
 
-<div align="center">
+### 🔹 Linguagens
 
-<table>
-<tr>
-  <td align="center"><strong>🔹 Linguagens</strong></td>
-  <td align="center"><strong>🔹 Frameworks Back-end</strong></td>
-</tr>
-<tr>
-  <td align="center">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask" />
-    <br>
-    <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/-Composer-885630?style=flat&logo=composer&logoColor=white" />
-  </td>
-</tr>
-<tr>
-  <td align="center"><strong>🔹 Frameworks de Interface</strong></td>
-  <td align="center"><strong>🔹 Banco de Dados</strong></td>
-</tr>
-<tr>
-  <td align="center">
-    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  </td>
-</tr>
-<tr>
-  <td colspan="2" align="center"><strong>🔹 Ferramentas & DevOps</strong></td>
-</tr>
-<tr>
-  <td colspan="2" align="center">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  </td>
-</tr>
-</table>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
 
-</div>
+<br><br>
 
-## 📫 Entre em contato
+### 🔹 Frameworks de Interface
 
-<p align="center">
-  ✉️ <strong>Email:</strong> rafaelmascarenhasborges@gmail.com <br>
-  💼 <strong><a href="https://www.linkedin.com/in/rafael-mascarenhas-borges">LinkedIn</a></strong> <br>
-  📱 <strong>Telefone/WhatsApp:</strong> (11) 93294-6971
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
+
+<br><br>
+
+### 🔹 Frameworks Back-end
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot"/>
+<img src="https://getcomposer.org/img/logo-composer-transparent.png" width="40" alt="Composer"/>
+
+<br><br>
+
+### 🔹 Banco de Dados
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+
+<br><br>
+
+### 🔹 Ferramentas & DevOps
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
 
 ---
 
-<div align="center">
-  <strong>✨ Obrigado por visitar meu perfil!</strong>
+## 📫 Entre em contato
+
+✉️ <strong>Email:</strong> rafaelmascarenhasborges@gmail.com <br>
+💼 <strong><a href="https://www.linkedin.com/in/rafael-mascarenhas-borges" target="_blank">LinkedIn</a></strong> <br>
+📱 <strong>Telefone/WhatsApp:</strong> (11) 93294-6971  
+
+---
+
+✨ Obrigado por visitar meu perfil!
+
 </div>
+
 
