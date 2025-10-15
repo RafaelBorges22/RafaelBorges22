@@ -1,59 +1,69 @@
 <div align="center">
 
-<h1>Olá, eu sou o Rafael Mascarenhas Borges 👋</h1>
+# 👋 Olá, eu sou o **Rafael Mascarenhas Borges**
 
-<h3>🎓 Cursando Desenvolvimento de Software Multiplataforma - Fatec Itaquera Miguel Reale</h3>
-
-<p>🧑‍💻 Em busca da primeira oportunidade como desenvolvedor</p>
+🎓 Cursando **Desenvolvimento de Software Multiplataforma** — *Fatec Itaquera Miguel Reale*  
+💻 Em busca da **primeira oportunidade como desenvolvedor estagiario**
 
 ---
 
 ## 🛠️ Minhas Skills
+</div>
 
 ### 🔹 Linguagens
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-
-<br><br>
-
-### 🔹 Frameworks de Interface
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
-
-<br><br>
-
-### 🔹 Frameworks Back-end
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot"/>
-<br><br>
-
-### 🔹 Banco de Dados
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-<br><br>
-
-### 🔹 Ferramentas & DevOps
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+</div>
 
 ---
+
+### 🔹 Frameworks de Interface
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React Native"/>
+</div>
+
+---
+
+### 🔹 Frameworks Back-end
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring Boot"/>
+</div>
+
+---
+
+### 🔹 Banco de Dados
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>
+</div>
+
+---
+
+### 🔹 Ferramentas & DevOps
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/>
+</div>
+
+---
+
+<div align="center">
 
 ## 📫 Entre em contato
 
-✉️ <strong>Email:</strong> rafaelmascarenhasborges@gmail.com <br>
-💼 <strong><a href="https://www.linkedin.com/in/rafael-mascarenhas-borges" target="_blank">LinkedIn</a></strong> <br>
-📱 <strong>Telefone/WhatsApp:</strong> (11) 93294-6971  
+✉️ **Email:** [rafaelmascarenhasborges@gmail.com](mailto:rafaelmascarenhasborges@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/rafael-mascarenhas-borges](https://www.linkedin.com/in/rafael-mascarenhas-borges)  
+📱 **Telefone/WhatsApp:** (11) 93294-6971  
 
 ---
 
-✨ Obrigado por visitar meu perfil!
-
+⭐ *Obrigado por visitar meu perfil!*
 </div>
+
+
 
 
