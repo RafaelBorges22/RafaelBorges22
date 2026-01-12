@@ -3,8 +3,6 @@
 # 👋 Olá, eu sou o **Rafael Mascarenhas Borges**
 
 🎓 Cursando **Desenvolvimento de Software Multiplataforma** — *Fatec Itaquera Miguel Reale*  
-💻 Em busca da **primeira oportunidade como desenvolvedor estagiario**
-
 ---
 
 ## 🛠️ Minhas Skills
