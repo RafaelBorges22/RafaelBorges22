@@ -2,7 +2,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Rafael%20Mascarenhas%20Borges&descAlign=50&descAlignY=50&textBg=false&fontSize=55&desc=Analista%20de%20QA%20e%20Desenvolvedor%20de%20Software&fontAlignY=30" alt="Rafael Borges banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Rafael%20Mascarenhas%20Borges&descAlign=50&descAlignY=50&textBg=false&fontSize=55&desc=Analista%20de%20QA%20e%20Desenvolvedor%20de%20Software&fontAlignY=30" alt="Rafael Borges banner" />
 </p>
 </div>
 
